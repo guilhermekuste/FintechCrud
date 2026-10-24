@@ -1,0 +1,13 @@
+{
+  "clientes": [
+    {
+      "cpf": "26264169416",
+      "nome": "dfvdf",
+      "sobrenome": "fdfdef",
+      "dtNascimento": "1990-05-10",
+      "email": "dfdfvd",
+      "senha": "123456",
+      "id": 1
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 export interface Cliente{
-    id?:number,
+    id:string,
     cpf:string,
     nome:string,
     sobrenome:string,
-    dataNascimento:string,
+    dtNascimento:string,
     email:string,
     senha?:string
 }
