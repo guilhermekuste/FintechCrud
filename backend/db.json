@@ -3,11 +3,29 @@
     {
       "cpf": "26264169416",
       "nome": "dfvdf",
-      "sobrenome": "fdfdef",
+      "sobrenome": "vdvdfvcdfv",
       "dtNascimento": "1990-05-10",
       "email": "dfdfvd",
-      "senha": "123456",
+      "senha": "12345",
       "id": 1
+    },
+    {
+      "email": "admin@email.com",
+      "senha": "1234",
+      "cpf": "123456789",
+      "nome": "luis",
+      "sobrenome": "abreu",
+      "dtNascimento": "2000-05-10",
+      "id": 2
+    },
+    {
+      "email": "admin1213@email.com",
+      "senha": "123456",
+      "cpf": "12345788",
+      "nome": "ana",
+      "sobrenome": "maria",
+      "dtNascimento": "2000-05-10",
+      "id": 3
     }
   ]
 }

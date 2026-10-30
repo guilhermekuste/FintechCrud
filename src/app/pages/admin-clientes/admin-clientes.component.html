@@ -38,7 +38,9 @@
 
                     <td class="acoes">
 
-                        <button class="botao-editar" type="button" (click)="editar(cliente.id!)">
+                        <button class="botao-editar" 
+                        type="button" 
+                        [routerLink]="['/admin-clientes-editar', cliente.id]">
                             Editar
                         </button>
 
